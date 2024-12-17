@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a small little ACC related project
+🔭 Currently working on a little WRC related project
 
 
 # 💻 Tech Stack:
