@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a little WRC related project and my Bachelor Thesis
+🔭 Currently working on some private applications. Finished Bachelor Thesis with a focus on Software Development.
 
 
 # 💻 Tech Stack:
