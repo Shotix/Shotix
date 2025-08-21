@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Currently working on some private applications. Finished Bachelor Thesis with a focus on Software Development.
+🔭 Currently working on some private applications. 
+B. Sc. in Software Development
 
 
 # 💻 Tech Stack:
